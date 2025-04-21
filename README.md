@@ -2,5 +2,5 @@
 
 ### 🚀 About Me
 - 💻 Full-stack developer
-- 📈 React,Flutter,Express
+- 📈 React,Flutter,Express,Go,Vue
 
